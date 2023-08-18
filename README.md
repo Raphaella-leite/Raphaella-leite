@@ -21,7 +21,6 @@
  <img align='center" alt= "Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
  <img align='center" alt= "Pycharm" src="[https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white
 )https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
-
 </div>
 
 

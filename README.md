@@ -1,5 +1,5 @@
 ## Olá! Eu sou a Raphaella Leite! ✋
-### Analista de Dados | Power BI | Analytics | Business Intelligence | SQL | Python 📊
+### | Analytics de Dados | Power BI | Business Intelligence | SQL | Python 📊
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
